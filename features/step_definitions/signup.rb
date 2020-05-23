@@ -1,6 +1,6 @@
 require 'selenium-webdriver'
 
-driver = Selenium::WebDriver.for:firefox
+driver = Selenium::WebDriver.for:chrome
 
 Given /^Open the web "(.*?)"$/ do |site|
     driver.get site
