@@ -1,4 +1,4 @@
-# mekari-test
+# Cucumber Test on Amazon Web
 
 ## How to run automation code 
 1. Clone repository to your local
@@ -13,7 +13,7 @@
 >> bundle install
 ```
 
-3. Open Cypress Test Runner to run the automation test 
+3. Run the automation test 
 ```
 >> bundle exec cucumber
 ```
