@@ -3,8 +3,8 @@
 ## How to run automation code 
 1. Clone repository to your local
 ```
->> git clone https://github.com/andinitah/mekari-test.git
->> cd mekari-test
+>> git clone https://github.com/andinitah/amazon-web-automation-test.git
+>> cd amazon-web-automation-test
 ```
 
 2. Install package before you run the automation test 
