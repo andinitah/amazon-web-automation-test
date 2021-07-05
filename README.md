@@ -18,5 +18,4 @@
 >> bundle exec cucumber
 ```
 
-## Test Cases
-You can check the Non-coding on [this link](https://docs.google.com/document/d/1Ts9JGN7wP3VLLxlbDGNeM7KvhtkD0N6LYpHp4EKTYNo/edit?usp=sharing)
+
